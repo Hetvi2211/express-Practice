@@ -28,5 +28,3 @@ A simple practice project built with **Node.js + Express.js** to understand the 
 3. Start the server:
  nodemon app.js
 
-Open in your browser:
-👉 http://127.0.0.1:3000/home
