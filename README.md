@@ -15,7 +15,3 @@ A simple practice project built with **Node.js + Express.js** to understand the 
 - Automatic redirect from `/` → `/home`
 - Express static file serving
 
----
-
-## 🔗 Output Link
-👉 [http://127.0.0.1:3000/home](http://127.0.0.1:3000/home)
