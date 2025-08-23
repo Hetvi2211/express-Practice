@@ -1,4 +1,4 @@
-# 🚀 Express Practice App
+# 🚀 Express Practice 
 
 A simple practice project built with **Node.js + Express.js** to understand the basics of:
 - Serving static HTML pages (Home, About)
